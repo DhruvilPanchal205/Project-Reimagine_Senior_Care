@@ -8,7 +8,7 @@ The Reimagine Senior Care app is an ongoing initiative dedicated to developing a
 
 ### Key Features
 
-- **Requirement Gathering:** Detailed analysis and collection of functional and non-functional requirements, ensuring alignment with stakeholder expectations.
+- **Requirement Gathering:** Detailed analysis and collection of functional and non-functional requirements, ensuring alignment with stakeholder expectations.[Requirement Gathering](https://github.com/DhruvilPanchal205/Project-Reimagine_Senior_Care/blob/b06833ae59c7935099be3ff2a13692c0a7cfe951/Requirement%20Gathering.xlsx)
   
 - **Gap Analysis:** Identifying the gaps between current and desired states to enhance the effectiveness of the application.
   [Gap Analysis](https://github.com/DhruvilPanchal205/Project-Reimagine_Senior_Care/blob/023b7bf8c17382288b84cb9f7133b6948a1cbd13/Gap%20Analysis.xlsx)
