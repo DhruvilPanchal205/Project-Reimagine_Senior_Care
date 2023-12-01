@@ -13,7 +13,7 @@ The Reimagine Senior Care app is an ongoing initiative dedicated to developing a
 - **Gap Analysis:** Identifying the gaps between current and desired states to enhance the effectiveness of the application.
   [Gap Analysis](https://github.com/DhruvilPanchal205/Project-Reimagine_Senior_Care/blob/023b7bf8c17382288b84cb9f7133b6948a1cbd13/Gap%20Analysis.xlsx)
   
-- **Features Documentation:** Comprehensive documentation outlining the features and functionalities of the application, serving as a reference guide for the development team.
+- **Features Documentation:** Comprehensive documentation outlining the features and functionalities of the application, serving as a reference guide for the development team.[Main Features](https://github.com/DhruvilPanchal205/Project-Reimagine_Senior_Care/blob/271fad60f64cf37dcb0c7bcf63e7a9e42b80fba7/Reimagened%20Senior%20Care%20App.docx)
   
 - **Scrum Board Management - Trello:** Utilizing Trello as a collaborative tool to manage tasks, prioritize work, and facilitate agile project management.
   
