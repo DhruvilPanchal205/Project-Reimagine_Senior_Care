@@ -49,6 +49,6 @@ Your contributions will be reviewed, and together, we can enhance the Reimagine 
 
 For any inquiries or suggestions regarding this project, please feel free to contact:
 
-[Dhruvil Panchal](d.panchal55@vikes.csuohio.edu) - Business Analyst
+[Dhruvil Panchal] (d.panchal55@vikes.csuohio.edu) - Business Analyst
 
 Thank you for your interest and support in making senior care more accessible and efficient through technology!
