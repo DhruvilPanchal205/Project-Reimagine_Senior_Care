@@ -6,7 +6,7 @@ Welcome to the Reimagine Senior Care project repository! This application is aim
 
 The Reimagine Senior Care app is an ongoing initiative dedicated to developing a comprehensive platform that addresses the various needs and challenges faced by seniors, caregivers, and healthcare providers. The primary focus is to create an intuitive, user-friendly interface that streamlines access to essential services, fosters social connections, and ensures optimal care for the elderly.
 
-### Key Features
+### Project Documents
 
 - **Requirement Gathering:** Detailed analysis and collection of functional and non-functional requirements, ensuring alignment with stakeholder expectations.[Requirement Gathering](https://github.com/DhruvilPanchal205/Project-Reimagine_Senior_Care/blob/b06833ae59c7935099be3ff2a13692c0a7cfe951/Requirement%20Gathering.xlsx)
   
