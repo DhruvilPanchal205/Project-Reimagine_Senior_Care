@@ -15,7 +15,7 @@ The Reimagine Senior Care app is an ongoing initiative dedicated to developing a
   
 - **Features Documentation:** Comprehensive documentation outlining the features and functionalities of the application, serving as a reference guide for the development team.[Main Features](https://github.com/DhruvilPanchal205/Project-Reimagine_Senior_Care/blob/271fad60f64cf37dcb0c7bcf63e7a9e42b80fba7/Reimagened%20Senior%20Care%20App.docx)
   
-- **Scrum Board Management - Trello:** Utilizing Trello as a collaborative tool to manage tasks, prioritize work, and facilitate agile project management.
+- **Scrum Board Management - Trello:** Utilizing Trello as a collaborative tool to manage tasks, prioritize work, and facilitate agile project management.[Trello-Board](https://github.com/DhruvilPanchal205/Project-Reimagine_Senior_Care/blob/326ac04d500cfe81c3927adab41045dc24fe5470/Trello-Board.pdf)
   
 - **Wireframes Development:** Creating visual representations of the application's interface, enabling a clear understanding of user interactions and layouts.
 
